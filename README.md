@@ -8,9 +8,10 @@
 
 ## Descrição
 * Desenvolver Middlewares, com as funcionalidades de:
-1-Validar um usuário recebendo username pelo headers.
-2-Verificar se um usuário está permitido criar infinitas tarefas.
-3-Verificar se a tarefa existe, validar usuario, alterar ela pelo params e validar se o id é um uuidv4.
+  
+1. Validar um usuário recebendo username pelo headers.
+2. Verificar se um usuário está permitido criar infinitas tarefas.
+3. Verificar se a tarefa existe, validar usuario, alterar ela pelo params e validar se o id é um uuidv4.
 
 ### Pré-requisitos
 
