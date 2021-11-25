@@ -3,6 +3,9 @@
 ## Plataforma de aprendizado
 * Rockeseat
 
+## Curso
+* BootCamp Ignite Trilha Nodejs
+
 ## Desafio02
 * Criar middleware para autenticações
 
