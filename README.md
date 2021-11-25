@@ -26,7 +26,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/kaiomoreira-dev/conceito-nodejs-middlewares.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nodejs-middleware
+$ cd conceito-nodejs-middleware
 
 # Vá para a pasta src
 $ cd src
